@@ -10,7 +10,7 @@
   --header-with-search-height: calc(
     var(--header-height) - var(--navbar-height)
   );
-  --header-sort-bar-height: 46px;
+  --header-bar-height: 46px;
 }
 
 * {
@@ -164,7 +164,6 @@ html {
   justify-content: center;
   align-items: center;
   list-style: none;
-  padding: 0;
 }
 .pagination-item--active .pagination-item__link {
   background-color: var(--primary-color);

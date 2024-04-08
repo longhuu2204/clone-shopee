@@ -164,7 +164,6 @@ html {
   justify-content: center;
   align-items: center;
   list-style: none;
-  padding: 0;
 }
 .pagination-item--active .pagination-item__link {
   background-color: var(--primary-color);

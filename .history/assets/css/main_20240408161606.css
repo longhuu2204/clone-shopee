@@ -429,7 +429,6 @@
 }
 .header__mobile-search {
   padding: 0 12px;
-  display: none;
 }
 .header__mobile-search-icon {
   font-size: 2.6rem;
@@ -885,7 +884,6 @@
 }
 /* Mobile category */
 .mobile-category {
-  display: none;
 }
 .mobile-category__list {
   display: flex;
@@ -1227,9 +1225,6 @@ i.home-product-item__like-icon-fill {
   height: 32px;
   object-fit: contain;
   padding: 0 5px;
-}
-.footer-1 {
-  padding-left: 10px;
 }
 .footer-2 {
   color: #7b7b7b;
